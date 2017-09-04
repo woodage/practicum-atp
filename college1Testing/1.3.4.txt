@@ -1,0 +1,6 @@
+eisen en wensen blackbox:
+
+- Bij het gebruiken van de functie moet er een parameter zijn die een 'list' kan ondersteunen.
+- Bij functie resultaat mogen er in de lijst geen oneven getallen zijn die ook onder priemgetal vallen.
+- De lijst moet op volgorde (klein naar groot) gesorteerd zijn.
+- Negatieve getallen moeten absolute getallen zijn.
